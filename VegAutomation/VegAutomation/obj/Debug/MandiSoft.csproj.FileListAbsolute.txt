@@ -1,0 +1,12 @@
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\MandiSoft.csprojResolveAssemblyReference.cache
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\VegAutomation.Properties.Resources.resources
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\MandiSoft.csproj.GenerateResource.Cache
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\bin\Debug\VegAutomation.exe.config
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\bin\Debug\VegAutomation.exe
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\bin\Debug\VegAutomation.pdb
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\VegAutomation.exe
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\VegAutomation.pdb
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\bin\Debug\mandisoft.mdf
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\bin\Debug\mandisoft_log.ldf
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\VegAutomation.frmunits.resources
+C:\Users\Mir Bilal\Desktop\FruitBoss\VegAutomation\VegAutomation\obj\Debug\VegAutomation.mandisoftMDI.resources
